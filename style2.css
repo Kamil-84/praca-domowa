@@ -1,0 +1,366 @@
+.container {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#sing-in {
+  border-radius: 8px;
+  width: 200px;
+  height: 40px;
+  position: absolute;
+  right: 30px;
+  background-color: white;
+  top: 21px;
+}
+#arrow {
+  border-radius: 8px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 35px;
+  top: 25px;
+  background-color: white;
+}
+#logo-ipsum {
+  position: absolute;
+  left: 100px;
+}
+
+#post-a-job {
+  background-color: white;
+  border-radius: 8px;
+  border-color: transparent;
+  position: absolute;
+  right: 240px;
+  top: 18px;
+}
+#privacy-policies {
+  border-color: transparent;
+  background-color: transparent;
+  width: 60px;
+  position: relative;
+  right: 150px;
+  top: 5px;
+}
+#terms {
+  border-color: transparent;
+  background-color: transparent;
+  width: 60px;
+  position: relative;
+  right: 170px;
+  top: 4px;
+}
+#faq {
+  border-color: transparent;
+  background-color: transparent;
+  width: 60px;
+  position: relative;
+  right: 180px;
+  top: 4px;
+}
+#offers {
+  border-color: transparent;
+  background-color: transparent;
+  width: 60px;
+  position: relative;
+  right: 200px;
+  top: 4px;
+}
+
+#search {
+  border-radius: 8px;
+  background-color: white;
+  position: absolute;
+  left: 47%;
+  top: 3%;
+}
+#black-stripe {
+  margin: 20px;
+  background-color: black;
+  border-radius: 12px;
+  height: 90px;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  left: 50px;
+}
+#lista1 {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  width: 87px;
+  height: 45px;
+}
+
+#lista2 {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  width: 87px;
+  height: 45px;
+}
+.search {
+  width: 30vw;
+  height: 4vh;
+  border-radius: 8px;
+  top: 4%;
+}
+#frontend2 {
+  border-radius: 8px;
+  background-color: blue;
+}
+.second-stripe {
+  margin: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+#git {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  left: 3%;
+}
+#git2 {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  left: 1%;
+}
+#js1 {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  left: 1%;
+}
+#vue {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 1%;
+}
+#triangle {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  right: 1%;
+}
+#anglular {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 3%;
+}
+#git3 {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  right: 3%;
+}
+#js2 {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 5%;
+}
+#js3 {
+  background-color: black;
+  border-radius: 8px;
+  position: relative;
+  right: 5%;
+}
+#css {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 7%;
+}
+#git4 {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  right: 7.5%;
+}
+#html {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 9%;
+}
+#js4 {
+  background-color: black;
+  border-radius: 8px;
+  position: relative;
+  right: 9%;
+}
+#agile {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 10.5%;
+}
+#triangle2 {
+  background-color: white;
+  border-radius: 8px;
+  position: relative;
+  right: 11%;
+}
+#git5 {
+  background-color: transparent;
+  border-color: transparent;
+  position: relative;
+  right: 12%;
+}
+#lista3 {
+  border-radius: 10px;
+  width: 90px;
+  height: 35px;
+  position: relative;
+  right: 14%;
+}
+#remote {
+  background-color: white;
+  border-radius: 8px;
+  position: absolute;
+  left: 84%;
+  width: 6%;
+  height: 4%;
+}
+#price-range {
+  background-color: white;
+  border-radius: 8px;
+  position: absolute;
+  right: 3%;
+  width: 6%;
+  height: 4%;
+}
+.third-bar {
+  display: flex;
+  justify-content: space-between;
+}
+#suwaki {
+  position: absolute;
+  left: 4%;
+  border-radius: 8px;
+  background-color: white;
+}
+#Filters {
+  position: absolute;
+  left: 7%;
+  top: 31%;
+}
+#sort {
+  position: absolute;
+  left: 82%;
+  top: 31%;
+}
+#lista4 {
+  border-radius: 8px;
+  position: absolute;
+  left: 90%;
+  background-color: white;
+}
+
+#box {
+  border-radius: 8px;
+  position: absolute;
+  left: 93%;
+  background-color: white;
+}
+.border {
+  display: flex;
+  position: absolute;
+  top: 38%;
+  left: 4%;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 94.5%;
+  height: 9%;
+}
+#netguru {
+  position: absolute;
+  left: 2%;
+  top: 40%;
+}
+
+#ruby {
+  position: absolute;
+  left: 8%;
+  top: 15%;
+}
+#netguru-sa {
+  position: relative;
+  left: 145px;
+  top: 50%;
+}
+#remote-logo {
+  position: relative;
+  left: 160%;
+  top: -15%;
+}
+#kasa {
+  position: absolute;
+  right: 17%;
+  top: 15%;
+}
+.box2 {
+  position: relative;
+  left: 500%;
+
+  background-color: transparent;
+  border-color: transparent;
+}
+#quickly {
+  background-color: white;
+  border-radius: 8px;
+  position: absolute;
+  left: 85%;
+  top: 20%;
+  width: 150px;
+  height: 40px;
+}
+.border2 {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 4%;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 94.5%;
+  height: 9%;
+}
+.box3 {
+  position: absolute;
+  left: 72%;
+  top: 50%;
+}
+.border3 {
+  display: flex;
+  position: absolute;
+  top: 140%;
+  left: 0%;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+}
+
+.border4 {
+  display: flex;
+  position: absolute;
+  top: 140%;
+  left: 0%;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+}
+#black-wall {
+  position: absolute;
+  left: 101%;
+  top: 5%;
+}
