@@ -1,0 +1,319 @@
+body {
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  margin-top: 1%;
+  color: #222426;
+}
+
+#search {
+  border-radius: 10px;
+  width: 400px;
+  height: 30px;
+  position: absolute;
+  left: 10%;
+  color: #b5bdc7;
+  font-family: Lexend Deca;
+}
+#loupe {
+  border-radius: 8px;
+  background-color: white;
+  position: absolute;
+  left: 29%;
+  top: 2.7%;
+}
+.top-fonts {
+  font-size: 16px;
+  font-family: Lexend Deca;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.violet-button {
+  border: solid black 2px;
+  border-radius: 10px;
+  width: 130px;
+  height: 37px;
+  background-color: #490df4;
+  position: absolute;
+  right: 10%;
+}
+.button-text1 {
+  font-size: 16px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Lexend Deca, Jobseeker;
+}
+.button {
+  border: solid black 2px;
+  border-radius: 10px;
+  width: 130px;
+  height: 40px;
+  background-color: white;
+}
+.button:first-of-type {
+  margin-bottom: 10px;
+}
+.button-text2 {
+  font-size: 16px;
+  display: flex;
+
+  font-family: Lexend Deca, Jobseeker;
+}
+#first-bar {
+  display: flex;
+  justify-content: space-between;
+}
+.divider {
+  color: #eceef6;
+  border-radius: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divider div {
+  height: 2px;
+  flex-grow: 1;
+  background: #edebf0;
+  border-radius: 18px;
+}
+.divider div:first-of-type {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.black-bar {
+  background-color: black;
+  border-radius: 10px;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.black-bar button {
+  color: white;
+  width: 150px;
+  height: 42px;
+  border-radius: 10px;
+  border-color: white;
+  background-color: black;
+  margin-left: 20px;
+  margin-left: 20px;
+  font-family: Lexend, Jobseeker;
+  font-size: 14px;
+}
+.black-bar button:nth-child(1) {
+  box-shadow: -4px 0px #31e8ff;
+}
+.black-bar button:nth-child(2) {
+  box-shadow: -4px 0px #00ff93;
+}
+.black-bar button:nth-child(3) {
+  box-shadow: -4px 0px #8415ff;
+}
+.black-bar button:nth-child(4) {
+  box-shadow: -4px 0px #fd4dc7;
+}
+.black-bar button:nth-child(5) {
+  box-shadow: -4px 0px #ff8227;
+}
+.black-bar button:nth-child(6) {
+  box-shadow: -4px 0px #fdff00;
+}
+#lista1 {
+  margin: 20px;
+  border-color: white;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  height: 42px;
+  width: 87px;
+  position: absolute;
+  right: 700px;
+}
+#lista2 {
+  margin: 20px;
+  border-color: white;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  height: 42px;
+  width: 150px;
+}
+.third-bar button {
+  background-color: white;
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.third-bar button:nth-child(2) {
+  background-color: #222426;
+}
+.third-bar button:nth-child(5) {
+  background-color: #222426;
+}
+.third-bar button:nth-child(7) {
+  background-color: #222426;
+}
+#lista3 {
+  border-radius: 10px;
+  border-color: black;
+  height: 40px;
+  width: 90px;
+}
+.third-bar button:nth-child(10) {
+  background-color: white;
+  width: 140px;
+  position: relative;
+  right: -43.5%;
+}
+.third-bar button:nth-child(11) {
+  background-color: white;
+  width: 140px;
+  position: relative;
+  right: -44%;
+}
+.window2:first-of-type {
+  margin-top: 20px;
+  font-family: "Lexend", "Jobseeker";
+  font-size: 14px;
+}
+#list-button {
+  background-color: white;
+  position: absolute;
+  right: 5%;
+}
+
+#box {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  margin-right: 2%;
+  right: 0.5%;
+}
+#box img {
+  width: 30px;
+  height: 30px;
+}
+.fourth-bar {
+  display: flex;
+  justify-content: flex-start;
+}
+#sort {
+  position: relative;
+  left: 720%;
+}
+#arrow {
+  position: relative;
+  left: 720%;
+}
+.window3:first-of-type {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+#Filters {
+  font-size: 16px;
+  font-family: "Lexend", "Jobseeker";
+}
+
+.fifth-bar {
+  border: 1px solid #222426;
+  border-radius: 10px;
+  width: 100%;
+  height: 95px;
+  box-shadow: -4px 0px #8415ff;
+}
+
+#netguru-logo {
+  padding: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 12px;
+}
+#Remote {
+  font-size: 16px;
+  font-family: "Lexend", "Jobseeker";
+}
+.Remote {
+  margin: -4%;
+  position: relative;
+  right: -11%;
+}
+#point {
+  width: 9.64px;
+  height: 11.75px;
+}
+.bottom-text {
+  padding: 5%;
+  position: relative;
+  right: -2.5%;
+}
+#remote-logo {
+  width: 86px;
+  height: 20px;
+}
+.remote-logo {
+  margin-top: 0.5%;
+  /* top: 40%; */
+  position: absolute;
+  left: 23%;
+}
+#Mid {
+  color: #490df4;
+  font-family: "Lexend", "Jobseeker";
+  font-size: 12px;
+}
+#new-logo {
+  width: 37px;
+  height: 18px;
+}
+.new-logo {
+  position: absolute;
+  left: 19%;
+}
+#heart {
+  width: 18px;
+  height: 14.47px;
+  position: absolute;
+  left: 220px;
+}
+#money {
+  width: 10px;
+  position: absolute;
+  left: 190px;
+}
+.earnings {
+  top: 41%;
+  position: absolute;
+  right: 18%;
+}
+#earnings {
+  color: #490df4;
+  font-family: Lexend Deca, Jobseeker;
+  font-size: 16px;
+}
+.bottom-text-right {
+  top: -8px;
+  position: relative;
+  left: 75%;
+  font-family: Lexend, Jobseeker;
+}
+#Quickly {
+  border: solid 2px black;
+  background-color: white;
+  border-radius: 10px;
+  height: 40px;
+  width: 200px;
+  font-family: "Lexend", "Jobseeker";
+}
+
+.button-quickly-apply {
+  top: 65px;
+  position: absolute;
+  left: 86%;
+}
